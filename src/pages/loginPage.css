@@ -1,0 +1,20 @@
+.div-main
+{
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url('../images/firstImage.jpg') !important;
+    background-size: cover  !important;
+    display:flex;
+    align-items: center;
+    height: 100vh;
+
+
+}
+.login-div{
+    width:320px;
+    margin:auto;
+    background-color:white;
+    padding: 20px;
+    margin-top: 10%;
+    border-radius:4px;
+
+
+}
